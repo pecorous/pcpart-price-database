@@ -1,0 +1,234 @@
+{
+  "cpu": [
+    {
+      "name": "AMD Ryzen 5 5600X",
+      "price": 199,
+      "specs": {
+        "cores": "6",
+        "speed": "3.7GHz",
+        "tdp": "65W"
+      },
+      "rating": 4.8,
+      "category": "cpu",
+      "scraped_at": "2025-08-04T18:24:16.716915"
+    },
+    {
+      "name": "Intel Core i5-12400F",
+      "price": 149,
+      "specs": {
+        "cores": "6",
+        "speed": "2.5GHz",
+        "tdp": "65W"
+      },
+      "rating": 4.7,
+      "category": "cpu",
+      "scraped_at": "2025-08-04T18:24:16.716931"
+    },
+    {
+      "name": "AMD Ryzen 7 5700X",
+      "price": 249,
+      "specs": {
+        "cores": "8",
+        "speed": "3.4GHz",
+        "tdp": "65W"
+      },
+      "rating": 4.8,
+      "category": "cpu",
+      "scraped_at": "2025-08-04T18:24:16.716937"
+    }
+  ],
+  "gpu": [
+    {
+      "name": "NVIDIA RTX 4060",
+      "price": 299,
+      "specs": {
+        "chipset": "RTX 4060",
+        "memory": "8GB"
+      },
+      "rating": 4.5,
+      "category": "gpu",
+      "scraped_at": "2025-08-04T18:24:21.633834"
+    },
+    {
+      "name": "AMD RX 6600",
+      "price": 249,
+      "specs": {
+        "chipset": "RX 6600",
+        "memory": "8GB"
+      },
+      "rating": 4.4,
+      "category": "gpu",
+      "scraped_at": "2025-08-04T18:24:21.633848"
+    },
+    {
+      "name": "NVIDIA RTX 4070",
+      "price": 599,
+      "specs": {
+        "chipset": "RTX 4070",
+        "memory": "12GB"
+      },
+      "rating": 4.7,
+      "category": "gpu",
+      "scraped_at": "2025-08-04T18:24:21.633853"
+    }
+  ],
+  "motherboard": [
+    {
+      "name": "MSI B550-A PRO",
+      "price": 139,
+      "specs": {
+        "socket": "AM4",
+        "form": "ATX"
+      },
+      "rating": 4.5,
+      "category": "motherboard",
+      "scraped_at": "2025-08-04T18:24:24.746799"
+    },
+    {
+      "name": "ASUS TUF Gaming B660M",
+      "price": 149,
+      "specs": {
+        "socket": "LGA1700",
+        "form": "mATX"
+      },
+      "rating": 4.6,
+      "category": "motherboard",
+      "scraped_at": "2025-08-04T18:24:24.746809"
+    }
+  ],
+  "memory": [
+    {
+      "name": "Corsair Vengeance LPX 16GB",
+      "price": 45,
+      "specs": {
+        "speed": "3200MHz",
+        "type": "DDR4",
+        "modules": "2x8GB"
+      },
+      "rating": 4.7,
+      "category": "memory",
+      "scraped_at": "2025-08-04T18:24:28.231100"
+    },
+    {
+      "name": "G.Skill Ripjaws V 32GB",
+      "price": 89,
+      "specs": {
+        "speed": "3600MHz",
+        "type": "DDR4",
+        "modules": "2x16GB"
+      },
+      "rating": 4.8,
+      "category": "memory",
+      "scraped_at": "2025-08-04T18:24:28.231112"
+    }
+  ],
+  "storage": [
+    {
+      "name": "Samsung 970 EVO Plus 1TB",
+      "price": 79,
+      "specs": {
+        "capacity": "1TB",
+        "type": "NVMe"
+      },
+      "rating": 4.8,
+      "category": "storage",
+      "scraped_at": "2025-08-04T18:24:32.670946"
+    },
+    {
+      "name": "WD Black SN770 1TB",
+      "price": 69,
+      "specs": {
+        "capacity": "1TB",
+        "type": "NVMe"
+      },
+      "rating": 4.7,
+      "category": "storage",
+      "scraped_at": "2025-08-04T18:24:32.670957"
+    }
+  ],
+  "ssd": [
+    {
+      "name": "Crucial MX500 1TB",
+      "price": 59,
+      "specs": {
+        "capacity": "1TB",
+        "type": "SATA"
+      },
+      "rating": 4.6,
+      "category": "ssd",
+      "scraped_at": "2025-08-04T18:24:40.014389"
+    }
+  ],
+  "psu": [
+    {
+      "name": "Corsair RM650x",
+      "price": 89,
+      "specs": {
+        "wattage": "650W",
+        "efficiency": "80+ Gold"
+      },
+      "rating": 4.8,
+      "category": "psu",
+      "scraped_at": "2025-08-04T18:24:43.641563"
+    },
+    {
+      "name": "EVGA SuperNOVA 750",
+      "price": 99,
+      "specs": {
+        "wattage": "750W",
+        "efficiency": "80+ Gold"
+      },
+      "rating": 4.7,
+      "category": "psu",
+      "scraped_at": "2025-08-04T18:24:43.641574"
+    }
+  ],
+  "case": [
+    {
+      "name": "NZXT H510",
+      "price": 69,
+      "specs": {
+        "form": "ATX",
+        "color": "Black"
+      },
+      "rating": 4.5,
+      "category": "case",
+      "scraped_at": "2025-08-04T18:24:47.826931"
+    },
+    {
+      "name": "Corsair 4000D Airflow",
+      "price": 79,
+      "specs": {
+        "form": "ATX",
+        "color": "Black"
+      },
+      "rating": 4.7,
+      "category": "case",
+      "scraped_at": "2025-08-04T18:24:47.826944"
+    }
+  ],
+  "cpu-cooler": [
+    {
+      "name": "Cooler Master Hyper 212",
+      "price": 35,
+      "specs": {
+        "type": "Air",
+        "tdp": "150W"
+      },
+      "rating": 4.5,
+      "category": "cpu-cooler",
+      "scraped_at": "2025-08-04T18:24:50.882203"
+    },
+    {
+      "name": "Arctic Freezer 34",
+      "price": 32,
+      "specs": {
+        "type": "Air",
+        "tdp": "150W"
+      },
+      "rating": 4.6,
+      "category": "cpu-cooler",
+      "scraped_at": "2025-08-04T18:24:50.882214"
+    }
+  ]
+}
