@@ -1,0 +1,22 @@
+{
+  "date": "20250804",
+  "version": 3,
+  "description": "Real market prices for PC components",
+  "categories": {
+    "cpu": 11,
+    "gpu": 12,
+    "motherboard": 9,
+    "memory": 7,
+    "storage": 8,
+    "psu": 8,
+    "case": 8,
+    "cooler": 7
+  },
+  "total_products": 70,
+  "sample_products": {
+    "budget_cpu": "AMD Ryzen 5 5600 - $139.99",
+    "budget_gpu": "RTX 3060 - $289.99",
+    "high_end_cpu": "Intel i9-13900K - $549.99",
+    "high_end_gpu": "RTX 4080 - $1199.99"
+  }
+}
